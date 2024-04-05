@@ -1,1 +1,1 @@
-Music plsyer
+Music player
